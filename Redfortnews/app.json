@@ -1,0 +1,12 @@
+{
+  "name": "Redfortnews",
+  "displayName": "Redfortnews",
+  "expo": {
+    "name": "Redfortnews",
+    "slug": "Redfortnews",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
